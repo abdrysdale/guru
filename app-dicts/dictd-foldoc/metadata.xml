@@ -6,6 +6,11 @@
 		<email>lssndrbarbieri@gmail.com</email>
 		<name>Alessandro Barbieri</name>
 	</maintainer>
+	<maintainer type="person">
+		<description>co-maintainers welcome</description>
+		<email>bacciferous@pm.me</email>
+		<name>Alex Drysdale</name>
+	</maintainer>
 	<upstream>
 		<maintainer>
 			<name>Denis Howe</name>
